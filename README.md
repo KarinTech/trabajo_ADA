@@ -8,7 +8,7 @@
 ##Albert Einstein
 ## Proyectos 
 -app seleccion personages videojuegos
-![imagen guerreo videojuegos](trademarks.jpg)
+![imagen guerreo videojuegos](smoke.jfif)
 -app delivery 
 
 

@@ -8,12 +8,12 @@
 ##Albert Einstein
 ## Proyectos 
 -app delivery Hamburgueseria
-![imagen platos con hamburguer](delivery.jfif)
+![imagen platos con hamburguer](delivery.jfif) [vea el proyecto](https://delivery-karintech.vercel.app/) 
 -app seleccion personages videojuegos
-![imagen guerrero videojuegos](smoke.jfif)
+![imagen guerrero videojuegos](smoke.jfif)[vea el proyecto](https://selector-personage.vercel.app/)
 -app delivery 
 ## Habilidades 
-#.HTML
-#.CSS
-#.GitHub
+- HTML
+- CSS
+- GITHUB
 

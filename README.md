@@ -18,7 +18,7 @@
 
 -app seleccion personages videojuegos
 ![imagen guerrero videojuegos](smoke.jfif)[vea el proyecto](https://selector-personage.vercel.app/)
--app delivery 
+
 ## Contacto 
 #Linkedin:  [mi perfil](https://www.linkedin.com/in/karin-centenaro-98652a229/)
 

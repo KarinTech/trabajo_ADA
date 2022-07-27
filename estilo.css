@@ -385,23 +385,7 @@ input [type=”email”] {
     display: flex;
    
 }
-}
-.mis_proyectos { 
-    display:flex; 
-    box-sizing: border-box;
-    width:80%;              
-}
 
-#proyectos .primero {
-    
-    box-sizing: border-box;
-    display:flex;
-   
-    width: 480px;
-    padding: 2%;
-    float:left;
-
-}
  .title02 {
     color:rgb(75, 56, 7);
     font-style: oblique;
@@ -414,86 +398,10 @@ input [type=”email”] {
     margin-top: 2px;
 }
 
-#proyectos .sub_division .primero, .segundo, .tercero img {
-    margin-top: 2px;
-    margin-left: 3px;
-}
-#proyectos .primero, .segundo, .tercero a {
-    text-decoration: none;
-    color:rgb(113, 13, 179);
-
-}
-#proyectos .primero, .segundo, .tercero {
-    width: 280px;
-    padding:2px;
-}
 
  #proyectos  a :hover {
     color:rgb(70, 52, 6);
 
-}
-#proyectos .primero {
-    box-sizing: border-box;
-    border: 2px solid rgb(205, 88, 191);
-    margin-left: 3%;
-
-}
-
-#proyectos .segundo {
-    
-        float:flex;
-        box-sizing: border-box;
-        margin-left: 15%;
-        border:2px solid rgb(35, 1, 66);
-        padding: 2px;
-       
-    }
-#proyectos .segundo .photo {
-    margin-top:8%;
-    margin-left:4%;
-    
-
-}
-
-#proyectos .segundo a {
-    margin-top: 2px;
-    margin-left: 5px;
-}
-
-
-#proyectos .tercero {
-    box-sizing: border-box;
-    border:2px solid #4b0341;
-    margin-left: 28%;
-    float:left;
-    
-}
-
-#proyectos .cuarto {
-    box-sizing: border-box;
-    width:280px;
-    height:360px;
-    border:2px solid #af4aa1;
-    margin-left: 36%;
-    float:left;
-}
-  
-#proyectos .cuarto a {
-    text-decoration: none;
-}
-
-#proyectos .cuarto img {
-    width:100%;
-}
-
-#proyectos .tercero .photo {
-    margin-top:8%;
-    margin-left: 10%;
-}
-
-#proyectos .tercero a {
-    margin-top: 2px;
-    margin-left: 5px;
 }
 
 input [type=”email”] {
@@ -525,27 +433,8 @@ input [type=”email”] {
         flex-direction: row;
        
     }
-    }
-    .mis_proyectos { 
-        box-sizing: border-box;
-        max-width: 80%;
-        display:flex; 
-        justify-content: flex-start;
-        box-sizing: border-box;
-        border-color: #4b0341;
-        width:100%;              
-    }
     
-    #proyectos .primero {
-        
-        box-sizing: border-box;
-        display:flex;
-        border:2px solid black;
-        width: 480px;
-        padding: 2%;
-        float:left;
     
-    }
      .title02 {
         color:rgb(75, 56, 7);
         font-style: oblique;
@@ -553,95 +442,7 @@ input [type=”email”] {
        
     }
     
-    
-    #proyectos .primero, .segundo, .tercero{
-        margin-top: 2px;
-    }
-    
-    #proyectos .sub_division .primero, .segundo, .tercero img {
-        margin-top: 2px;
-        margin-left: 3px;
-    }
-    #proyectos .primero, .segundo, .tercero a {
-        text-decoration: none;
-        color:rgb(113, 13, 179);
-    
-    }
-    #proyectos .primero, .segundo, .tercero {
-        width: 280px;
-        padding:2px;
-    }
-    
-     .sub_division  a :hover {
-        color:rgb(70, 52, 6);
-    
-    }
-    #proyectos .primero {
-        box-sizing: border-box;
-        border: 2px solid rgb(205, 88, 191);
-        margin-left: 3%;
-    
-    }
-    
-    #proyectos .segundo {
-        
-            float:flex;
-            box-sizing: border-box;
-            margin-left: 25%;
-            border:2px solid rgb(35, 1, 66);
-            padding: 2px;
-           
-        }
-    #proyectos .segundo .photo {
-        margin-top:8%;
-        margin-left:4%;
-        
-    
-    }
-    
-    #proyectos .segundo a {
-        margin-top: 2px;
-        margin-left: 5px;
-    }
-    
-    
-    #proyectos .tercero {
-        
-        box-sizing: border-box;
-        border:2px solid #4b0341;
-        margin-left: 28%;
-        float:left;
-        
-    }
-    
-    #proyectos .cuarto {
-        position:absolute;
-        box-sizing: border-box;
-        width:280px;
-        height:360px;
-        border:2px solid #af4aa1;
-        margin-left: 46%;
-        float:left;
-    }
-      
-    #proyectos .cuarto a {
-        text-decoration: none;
-    }
-    
-    #proyectos .cuarto img {
-        width:100%;
-    }
-    
-    #proyectos .tercero .photo {
-        margin-top:8%;
-        margin-left: 10%;
-    }
-    
-    #proyectos .tercero a {
-        margin-top: 2px;
-        margin-left: 5px;
-    }
-    
+
     .foot footer {
         box-sizing:border-box;
         height:40px;
@@ -859,96 +660,20 @@ input [type=”email”] {
             flex-direction: row;
            
         }
-        .mis_proyectos { 
-            display:flex; 
-            box-sizing: border-box;
-            border-color: #4b0341;
-            width:100%;   
-            height:280px;           
-        }
         
-        .mis_proyectos {
-            justify-content: flex-start;
-            float:left;
         
-        }
-        #proyectos .primero {
-            
-            box-sizing: border-box;
-            display:flex;
-            justify-content: flex-start;
-            flex-direction: column;
-            border:2px solid black;
-            width: 380px;
-            padding: 2%;
-            float:left;
-        
-        }
          .title02 {
             color:rgb(75, 56, 7);
             font-style: oblique;
             margin-left: 40%;
            
         }
-        
-        
-        #proyectos .primero, .segundo, .tercero{
-            margin-top: 2px;
-        }
-        
-        #proyectos .sub_division .primero, .segundo, .tercero img {
-            margin-top: 2px;
-            margin-left: 3px;
-        }
-        #proyectos .primero, .segundo, a {
-            text-decoration: none;
-            color:rgb(113, 13, 179);
-        
-        }
+    
+     
          #proyectos a :hover {
             color:rgb(70, 52, 6);
         
-        }
-        #proyectos .primero {
-            position: relative;
-            box-sizing: border-box;
-            border: 2px solid rgb(205, 88, 191);
-            margin-left: 1%;
-        
-        }
-        
-    .segundo {
-             
-                box-sizing: border-box;
-                margin-left: 35%;
-                border:2px solid rgb(35, 1, 66);
-                padding: 2px;
-               
-            }
-        .display_proyectos .segundo .photo {
-            margin-top:8%;
-            margin-left:4%;
-            max-width: 200px;
-            max-height: 160px;
-        
-        }
-        
-        #proyectos .segundo a {
-            margin-top: 2px;
-            margin-left: 5px;
-        }
-        
-        
-        #proyectos .tercero .photo {
-            margin-top:8%;
-            margin-left: 10%;
-        }
-        
-        #proyectos .tercero a {
-            margin-top: 2px;
-            margin-left: 5px;
-        }
-        
+      
         .foot footer {
             box-sizing:border-box;
             height:40px;
@@ -1223,31 +948,9 @@ input [type=”email”] {
             border:2px solid rgb(35, 1, 66);
             padding: 10px;
             display: flex;
-            flex-direction: row;
-           
+            flex-direction: row;  
         }
-        .mis_proyectos { 
-            display:flex; 
-            box-sizing: border-box;
-            border-color: #4b0341;
-            width:100%;   
-            height:280px;           
-        }
-        
-        .mis_proyectos {
-            float:left;
-        
-        }
-        #proyectos .primero {
-            
-            box-sizing: border-box;
-            display:flex;
-            border:2px solid black;
-            width: 380px;
-            padding: 2%;
-            float:left;
-        
-        }
+     
         #proyectos .title02 {
             color:rgb(75, 56, 7);
             font-style: oblique;
@@ -1255,69 +958,10 @@ input [type=”email”] {
            
         }
         
-        
-        #proyectos .primero, .segundo, .tercero{
-            margin-top: 2px;
-        }
-        
-        #proyectos .sub_division .primero, .segundo, .tercero img {
-            margin-top: 2px;
-            margin-left: 3px;
-        }
-        #proyectos .primero, .segundo, a {
-            text-decoration: none;
-            color:rgb(113, 13, 179);
-        
-        }
          #proyectos a :hover {
             color:rgb(70, 52, 6);
         
-        }
-        #proyectos .primero {
-
-            box-sizing: border-box;
-            border: 2px solid rgb(205, 88, 191);
-            margin-left: 1%;
-        
-        }
-        
-        .mis_proyectos .segundo {
-             
-                box-sizing: border-box;
-                border:2px solid rgb(35, 1, 66);
-                padding: 2px;
-               
-            }
-        .mis_proyectos .segundo .photo {
-            margin-top:8%;
-            margin-left:4%;
-            max-width: 200px;
-            max-height: 160px;
-        
-        }
-        
-        #proyectos .segundo a {
-            margin-top: 2px;
-            margin-left: 5px;
-        }
-        
-        .display_02 {
-        
-            box-sizing: border-box;
-            border:2px solid #4b0341;
-            margin-left: 85%;
-        }
-        
-        #proyectos .tercero .photo {
-            margin-top:8%;
-            margin-left: 10%;
-        }
-        
-        #proyectos .tercero a {
-            margin-top: 2px;
-            margin-left: 5px;
-        }
-        
+     
         .foot footer {
             box-sizing:border-box;
             height:40px;

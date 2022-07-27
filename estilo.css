@@ -370,7 +370,11 @@ input [type=”email”] {
 .fab fa-youtube {
     color:blueviolet;
 }
-@media screen and (max-width:560px) {  
+
+.firma {
+    background-color:aquamarine;
+
+@media screen and (max-width:460px) {  
 #proyectos {
     display:flex; 
     box-sizing: border-box;

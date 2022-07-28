@@ -358,12 +358,12 @@ textarea {
 }
 
 .contacto02 button {
-    background-color: #960482;
+    background-color: aquamarine;
     font-size: 0.6em;
-    color:antiquewhite;
-    width:95px;
-    height:50px;
-    border-radius: 10%;
+    color:#960482;
+    width:180px;
+    height:130px;
+    border-radius: 30%;
 }
 .foot {
     width:100%;
